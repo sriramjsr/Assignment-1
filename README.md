@@ -12,11 +12,11 @@ Streamlit
 
 The application have the following features:
 
-# Youtube Api: We use to Retrive data from youtube api for the channels and videos information.
-# After retrive the data we store itin mongodb.
-# The stored data in mongodb are converted to a dataframe and migrate the data to a sql
-# Analyze the data and show that in a webpage using streamlit.
-# Perform the sql queries and gain the performance of the channels,vidoes and statistical information about that channel
+ Youtube Api: We use to Retrive data from youtube api for the channels and videos information.
+ After retrive the data we store itin mongodb.
+ The stored data in mongodb are converted to a dataframe and migrate the data to a sql
+ Analyze the data and show that in a webpage using streamlit.
+ Perform the sql queries and gain the performance of the channels,vidoes and statistical information about that channel
 
 
 # Youtube Api:
